@@ -5,19 +5,23 @@
 #ifndef LABORATORIO_1_SORTS_H
 #define LABORATORIO_1_SORTS_H
 
+#include <iostream>
+
+using namespace std;
+
 class sorts{
 private:
     int *values;
     size_t size;
 public:
-    sorts(int *_values, size_t _size):values(_values),size(_size);
-    void InsertSort(int *_values, size_t _size);
-    void SelectionSort(int *_values, size_t _size);
-    void BubbleSort(int *_values, size_t _size);
-    void MergeSort(int *_values, size_t _size);
-    void HeapSort(int *_values, size_t _size);
-    void QuickSort(int *_values, size_ti _size);
-
+    sorts(int *_values, size_t _size):values(_values),size(_size){};
+    void InsertSort();
+    void SelectionSort();
+    void BubbleSort();
+    void MergeSort();
+    void HeapSort();
+    void QuickSort();
+    void print();
 };
 
 #endif //LABORATORIO_1_SORTS_H

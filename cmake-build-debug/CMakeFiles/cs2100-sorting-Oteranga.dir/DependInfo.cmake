@@ -4,7 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/HeapSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/InsertSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/MergeSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/QuickSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/SelectionSort.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o"
   "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/main.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.o"
+  "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/print.cpp" "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -70,17 +70,122 @@ CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/main.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.s
 
+CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o: ../BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o: ../HeapSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/HeapSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/HeapSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/HeapSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o: ../InsertSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/InsertSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/InsertSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/InsertSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o: ../MergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/MergeSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/MergeSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/MergeSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o: ../print.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/print.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/print.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/print.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o: ../QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/QuickSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/QuickSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/QuickSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.s
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o: CMakeFiles/cs2100-sorting-Oteranga.dir/flags.make
+CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o: ../SelectionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o -c "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/SelectionSort.cpp"
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/SelectionSort.cpp" > CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.i
+
+CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/SelectionSort.cpp" -o CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.s
+
 # Object files for target cs2100-sorting-Oteranga
 cs2100__sorting__Oteranga_OBJECTS = \
-"CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.o"
+"CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o" \
+"CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o"
 
 # External object files for target cs2100-sorting-Oteranga
 cs2100__sorting__Oteranga_EXTERNAL_OBJECTS =
 
 cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o
+cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o
 cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/build.make
 cs2100-sorting-Oteranga: CMakeFiles/cs2100-sorting-Oteranga.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cs2100-sorting-Oteranga"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable cs2100-sorting-Oteranga"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cs2100-sorting-Oteranga.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

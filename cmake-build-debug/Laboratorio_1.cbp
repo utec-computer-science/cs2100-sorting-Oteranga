@@ -80,7 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/HeapSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/InsertSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/MergeSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/QuickSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/SelectionSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
 		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/main.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/print.cpp">
 			<Option target="cs2100-sorting-Oteranga"/>
 		</Unit>
 		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/CMakeLists.txt">

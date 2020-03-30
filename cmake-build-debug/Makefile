@@ -123,6 +123,168 @@ cs2100-sorting-Oteranga/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/build
 .PHONY : cs2100-sorting-Oteranga/fast
 
+BubbleSort.o: BubbleSort.cpp.o
+
+.PHONY : BubbleSort.o
+
+# target to build an object file
+BubbleSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o
+.PHONY : BubbleSort.cpp.o
+
+BubbleSort.i: BubbleSort.cpp.i
+
+.PHONY : BubbleSort.i
+
+# target to preprocess a source file
+BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.i
+.PHONY : BubbleSort.cpp.i
+
+BubbleSort.s: BubbleSort.cpp.s
+
+.PHONY : BubbleSort.s
+
+# target to generate assembly for a file
+BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.s
+.PHONY : BubbleSort.cpp.s
+
+HeapSort.o: HeapSort.cpp.o
+
+.PHONY : HeapSort.o
+
+# target to build an object file
+HeapSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.o
+.PHONY : HeapSort.cpp.o
+
+HeapSort.i: HeapSort.cpp.i
+
+.PHONY : HeapSort.i
+
+# target to preprocess a source file
+HeapSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.i
+.PHONY : HeapSort.cpp.i
+
+HeapSort.s: HeapSort.cpp.s
+
+.PHONY : HeapSort.s
+
+# target to generate assembly for a file
+HeapSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/HeapSort.cpp.s
+.PHONY : HeapSort.cpp.s
+
+InsertSort.o: InsertSort.cpp.o
+
+.PHONY : InsertSort.o
+
+# target to build an object file
+InsertSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.o
+.PHONY : InsertSort.cpp.o
+
+InsertSort.i: InsertSort.cpp.i
+
+.PHONY : InsertSort.i
+
+# target to preprocess a source file
+InsertSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.i
+.PHONY : InsertSort.cpp.i
+
+InsertSort.s: InsertSort.cpp.s
+
+.PHONY : InsertSort.s
+
+# target to generate assembly for a file
+InsertSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/InsertSort.cpp.s
+.PHONY : InsertSort.cpp.s
+
+MergeSort.o: MergeSort.cpp.o
+
+.PHONY : MergeSort.o
+
+# target to build an object file
+MergeSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o
+.PHONY : MergeSort.cpp.o
+
+MergeSort.i: MergeSort.cpp.i
+
+.PHONY : MergeSort.i
+
+# target to preprocess a source file
+MergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.i
+.PHONY : MergeSort.cpp.i
+
+MergeSort.s: MergeSort.cpp.s
+
+.PHONY : MergeSort.s
+
+# target to generate assembly for a file
+MergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.s
+.PHONY : MergeSort.cpp.s
+
+QuickSort.o: QuickSort.cpp.o
+
+.PHONY : QuickSort.o
+
+# target to build an object file
+QuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o
+.PHONY : QuickSort.cpp.o
+
+QuickSort.i: QuickSort.cpp.i
+
+.PHONY : QuickSort.i
+
+# target to preprocess a source file
+QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.i
+.PHONY : QuickSort.cpp.i
+
+QuickSort.s: QuickSort.cpp.s
+
+.PHONY : QuickSort.s
+
+# target to generate assembly for a file
+QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.s
+.PHONY : QuickSort.cpp.s
+
+SelectionSort.o: SelectionSort.cpp.o
+
+.PHONY : SelectionSort.o
+
+# target to build an object file
+SelectionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o
+.PHONY : SelectionSort.cpp.o
+
+SelectionSort.i: SelectionSort.cpp.i
+
+.PHONY : SelectionSort.i
+
+# target to preprocess a source file
+SelectionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.i
+.PHONY : SelectionSort.cpp.i
+
+SelectionSort.s: SelectionSort.cpp.s
+
+.PHONY : SelectionSort.s
+
+# target to generate assembly for a file
+SelectionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.s
+.PHONY : SelectionSort.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +312,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+print.o: print.cpp.o
+
+.PHONY : print.o
+
+# target to build an object file
+print.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.o
+.PHONY : print.cpp.o
+
+print.i: print.cpp.i
+
+.PHONY : print.i
+
+# target to preprocess a source file
+print.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.i
+.PHONY : print.cpp.i
+
+print.s: print.cpp.s
+
+.PHONY : print.s
+
+# target to generate assembly for a file
+print.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/print.cpp.s
+.PHONY : print.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +348,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cs2100-sorting-Oteranga"
+	@echo "... BubbleSort.o"
+	@echo "... BubbleSort.i"
+	@echo "... BubbleSort.s"
+	@echo "... HeapSort.o"
+	@echo "... HeapSort.i"
+	@echo "... HeapSort.s"
+	@echo "... InsertSort.o"
+	@echo "... InsertSort.i"
+	@echo "... InsertSort.s"
+	@echo "... MergeSort.o"
+	@echo "... MergeSort.i"
+	@echo "... MergeSort.s"
+	@echo "... QuickSort.o"
+	@echo "... QuickSort.i"
+	@echo "... QuickSort.s"
+	@echo "... SelectionSort.o"
+	@echo "... SelectionSort.i"
+	@echo "... SelectionSort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... print.o"
+	@echo "... print.i"
+	@echo "... print.s"
 .PHONY : help
 
 
