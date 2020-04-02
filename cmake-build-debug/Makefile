@@ -285,6 +285,33 @@ SelectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.s
 .PHONY : SelectionSort.cpp.s
 
+ShellSort.o: ShellSort.cpp.o
+
+.PHONY : ShellSort.o
+
+# target to build an object file
+ShellSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/ShellSort.cpp.o
+.PHONY : ShellSort.cpp.o
+
+ShellSort.i: ShellSort.cpp.i
+
+.PHONY : ShellSort.i
+
+# target to preprocess a source file
+ShellSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/ShellSort.cpp.i
+.PHONY : ShellSort.cpp.i
+
+ShellSort.s: ShellSort.cpp.s
+
+.PHONY : ShellSort.s
+
+# target to generate assembly for a file
+ShellSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/ShellSort.cpp.s
+.PHONY : ShellSort.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -366,6 +393,9 @@ help:
 	@echo "... SelectionSort.o"
 	@echo "... SelectionSort.i"
 	@echo "... SelectionSort.s"
+	@echo "... ShellSort.o"
+	@echo "... ShellSort.i"
+	@echo "... ShellSort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

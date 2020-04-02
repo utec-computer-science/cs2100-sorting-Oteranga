@@ -25,6 +25,7 @@ int main(int, char*[]){
     //ejemplo->MergeSort();
     //ejemplo->HeapSort();
     //ejemplo->QuickSort();
+    ejemplo->ShellSort();
     ejemplo->print();
 
     return 1;

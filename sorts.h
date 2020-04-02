@@ -22,6 +22,8 @@ public:
     void HeapSort();
     void QuickSort();
     void print();
+    //sorts extras
+    void ShellSort();
 };
 
 #endif //LABORATORIO_1_SORTS_H
