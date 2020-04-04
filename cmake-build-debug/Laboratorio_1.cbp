@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BinSort.cpp">
+			<Option target="cs2100-sorting-Oteranga"/>
+		</Unit>
 		<Unit filename="/Users/alejandrootero/Documents/UTEC/Ciclo 5/Git/cs2100-sorting-Oteranga/BubbleSort.cpp">
 			<Option target="cs2100-sorting-Oteranga"/>
 		</Unit>

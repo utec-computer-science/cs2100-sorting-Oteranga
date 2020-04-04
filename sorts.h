@@ -5,6 +5,7 @@
 #ifndef LABORATORIO_1_SORTS_H
 #define LABORATORIO_1_SORTS_H
 
+#include <algorithm>
 #include <iostream>
 
 using namespace std;
@@ -24,6 +25,7 @@ public:
     void print();
     //sorts extras
     void ShellSort();
+    void BinSort();
 };
 
 #endif //LABORATORIO_1_SORTS_H

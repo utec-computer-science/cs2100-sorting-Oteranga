@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o"
   "CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o"
   "CMakeFiles/cs2100-sorting-Oteranga.dir/ShellSort.cpp.o"
+  "CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.o"
   "cs2100-sorting-Oteranga.pdb"
   "cs2100-sorting-Oteranga"
 )

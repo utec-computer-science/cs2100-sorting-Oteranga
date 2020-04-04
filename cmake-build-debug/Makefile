@@ -123,6 +123,33 @@ cs2100-sorting-Oteranga/fast:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/build
 .PHONY : cs2100-sorting-Oteranga/fast
 
+BinSort.o: BinSort.cpp.o
+
+.PHONY : BinSort.o
+
+# target to build an object file
+BinSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.o
+.PHONY : BinSort.cpp.o
+
+BinSort.i: BinSort.cpp.i
+
+.PHONY : BinSort.i
+
+# target to preprocess a source file
+BinSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.i
+.PHONY : BinSort.cpp.i
+
+BinSort.s: BinSort.cpp.s
+
+.PHONY : BinSort.s
+
+# target to generate assembly for a file
+BinSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.s
+.PHONY : BinSort.cpp.s
+
 BubbleSort.o: BubbleSort.cpp.o
 
 .PHONY : BubbleSort.o
@@ -375,6 +402,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cs2100-sorting-Oteranga"
+	@echo "... BinSort.o"
+	@echo "... BinSort.i"
+	@echo "... BinSort.s"
 	@echo "... BubbleSort.o"
 	@echo "... BubbleSort.i"
 	@echo "... BubbleSort.s"

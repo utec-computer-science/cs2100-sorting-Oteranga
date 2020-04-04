@@ -18,6 +18,8 @@ int main(int, char*[]){
         elements[i]=rand()%10+1;
     }
 
+
+
     sorts *ejemplo= new sorts (ptr,length);
     //ejemplo->InsertSort();
     //ejemplo->SelectionSort();
@@ -25,7 +27,8 @@ int main(int, char*[]){
     //ejemplo->MergeSort();
     //ejemplo->HeapSort();
     //ejemplo->QuickSort();
-    ejemplo->ShellSort();
+    //ejemplo->ShellSort();
+    //ejemplo->BinSort(); //Solo funciona con floats
     ejemplo->print();
 
     return 1;
