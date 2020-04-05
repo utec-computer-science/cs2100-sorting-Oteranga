@@ -19,6 +19,9 @@ CMakeFiles/cs2100-sorting-Oteranga.dir/MergeSort.cpp.o: ../sorts.h
 CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o: ../QuickSort.cpp
 CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.o: ../sorts.h
 
+CMakeFiles/cs2100-sorting-Oteranga.dir/RadixSort.cpp.o: ../RadixSort.cpp
+CMakeFiles/cs2100-sorting-Oteranga.dir/RadixSort.cpp.o: ../sorts.h
+
 CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o: ../SelectionSort.cpp
 CMakeFiles/cs2100-sorting-Oteranga.dir/SelectionSort.cpp.o: ../sorts.h
 

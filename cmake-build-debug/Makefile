@@ -285,6 +285,33 @@ QuickSort.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/QuickSort.cpp.s
 .PHONY : QuickSort.cpp.s
 
+RadixSort.o: RadixSort.cpp.o
+
+.PHONY : RadixSort.o
+
+# target to build an object file
+RadixSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/RadixSort.cpp.o
+.PHONY : RadixSort.cpp.o
+
+RadixSort.i: RadixSort.cpp.i
+
+.PHONY : RadixSort.i
+
+# target to preprocess a source file
+RadixSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/RadixSort.cpp.i
+.PHONY : RadixSort.cpp.i
+
+RadixSort.s: RadixSort.cpp.s
+
+.PHONY : RadixSort.s
+
+# target to generate assembly for a file
+RadixSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/RadixSort.cpp.s
+.PHONY : RadixSort.cpp.s
+
 SelectionSort.o: SelectionSort.cpp.o
 
 .PHONY : SelectionSort.o
@@ -420,6 +447,9 @@ help:
 	@echo "... QuickSort.o"
 	@echo "... QuickSort.i"
 	@echo "... QuickSort.s"
+	@echo "... RadixSort.o"
+	@echo "... RadixSort.i"
+	@echo "... RadixSort.s"
 	@echo "... SelectionSort.o"
 	@echo "... SelectionSort.i"
 	@echo "... SelectionSort.s"

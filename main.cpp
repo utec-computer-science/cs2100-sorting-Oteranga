@@ -1,5 +1,6 @@
 #include <iostream>
 #include "sorts.h"
+
 using namespace std;
 
 int main(int, char*[]){
@@ -18,8 +19,6 @@ int main(int, char*[]){
         elements[i]=rand()%10+1;
     }
 
-
-
     sorts *ejemplo= new sorts (ptr,length);
     //ejemplo->InsertSort();
     //ejemplo->SelectionSort();
@@ -29,6 +28,7 @@ int main(int, char*[]){
     //ejemplo->QuickSort();
     //ejemplo->ShellSort();
     //ejemplo->BinSort(); //Solo funciona con floats
+    ejemplo->RadixSort();
     ejemplo->print();
 
     return 1;
