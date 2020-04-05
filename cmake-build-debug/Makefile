@@ -150,6 +150,33 @@ BinSort.cpp.s:
 	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.s
 .PHONY : BinSort.cpp.s
 
+BrickSort.o: BrickSort.cpp.o
+
+.PHONY : BrickSort.o
+
+# target to build an object file
+BrickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BrickSort.cpp.o
+.PHONY : BrickSort.cpp.o
+
+BrickSort.i: BrickSort.cpp.i
+
+.PHONY : BrickSort.i
+
+# target to preprocess a source file
+BrickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BrickSort.cpp.i
+.PHONY : BrickSort.cpp.i
+
+BrickSort.s: BrickSort.cpp.s
+
+.PHONY : BrickSort.s
+
+# target to generate assembly for a file
+BrickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/cs2100-sorting-Oteranga.dir/build.make CMakeFiles/cs2100-sorting-Oteranga.dir/BrickSort.cpp.s
+.PHONY : BrickSort.cpp.s
+
 BubbleSort.o: BubbleSort.cpp.o
 
 .PHONY : BubbleSort.o
@@ -432,6 +459,9 @@ help:
 	@echo "... BinSort.o"
 	@echo "... BinSort.i"
 	@echo "... BinSort.s"
+	@echo "... BrickSort.o"
+	@echo "... BrickSort.i"
+	@echo "... BrickSort.s"
 	@echo "... BubbleSort.o"
 	@echo "... BubbleSort.i"
 	@echo "... BubbleSort.s"

@@ -4,6 +4,9 @@
 CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.o: ../BinSort.cpp
 CMakeFiles/cs2100-sorting-Oteranga.dir/BinSort.cpp.o: ../sorts.h
 
+CMakeFiles/cs2100-sorting-Oteranga.dir/BrickSort.cpp.o: ../BrickSort.cpp
+CMakeFiles/cs2100-sorting-Oteranga.dir/BrickSort.cpp.o: ../sorts.h
+
 CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o: ../BubbleSort.cpp
 CMakeFiles/cs2100-sorting-Oteranga.dir/BubbleSort.cpp.o: ../sorts.h
 

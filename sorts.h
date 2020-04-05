@@ -27,6 +27,7 @@ public:
     void ShellSort();
     void BinSort();
     void RadixSort();
+    void BrickSort();
 };
 
 #endif //LABORATORIO_1_SORTS_H

@@ -28,7 +28,8 @@ int main(int, char*[]){
     //ejemplo->QuickSort();
     //ejemplo->ShellSort();
     //ejemplo->BinSort(); //Solo funciona con floats
-    ejemplo->RadixSort();
+    //ejemplo->RadixSort();
+    ejemplo->BrickSort();
     ejemplo->print();
 
     return 1;
